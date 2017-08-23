@@ -1,0 +1,6 @@
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan8\Pengamatan8\bin\Debug\Pengamatan8.exe.config
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan8\Pengamatan8\bin\Debug\Pengamatan8.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan8\Pengamatan8\bin\Debug\Pengamatan8.pdb
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan8\Pengamatan8\obj\Debug\Pengamatan8.csprojResolveAssemblyReference.cache
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan8\Pengamatan8\obj\Debug\Pengamatan8.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan8\Pengamatan8\obj\Debug\Pengamatan8.pdb
